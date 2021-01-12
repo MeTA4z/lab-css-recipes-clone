@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html {
+  font-family: 'Poppins';
+}
+
+header img {
+  width: 100%;
+}
+
+header {
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  font-size: 600%;
+  color: white;
+  position: absolute;
+  width: 100%;
+  top: 45%;
+}
+
+section {
+  padding: 75px;
+}
+
+section img {
+  image-orientation: ;
+}
