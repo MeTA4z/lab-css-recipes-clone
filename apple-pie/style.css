@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url("https://fonts.googleapis.com/css?family=Poppins");
 
 html {
-  font-family: 'Poppins';
+  font-family: "Poppins";
 }
 
 header img {
@@ -15,11 +15,11 @@ header {
 }
 
 h1 {
-  font-size: 600%;
+  font-size: 500%;
   color: white;
   position: absolute;
   width: 100%;
-  top: 45%;
+  top: 35%;
 }
 
 section {
